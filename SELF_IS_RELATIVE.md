@@ -21,6 +21,38 @@ and:
 
 ---
 
+## Emergence establishes relational position
+
+The point does not become existent because it is relative. Existence and relational position are distinct.
+
+The proposed ordering is:
+
+```text
+point exists
+-> point emerges / is expressed
+-> emergence situates the point
+-> relation gives the point a coordinate
+-> trajectory develops from that coordinate
+```
+
+A point that emerges does not emerge nowhere. Its emergence occurs under particular conditions and in relation to whatever other coordinates, structures, or conditions are present. Once emerged, the point is therefore situated.
+
+```text
+point != coordinate
+coordinate = point situated in relation
+trajectory = path of the situated point through change
+```
+
+Relation does not create the underlying point. Relation locates the emerged point with respect to what is around it and thereby gives structure to its position.
+
+This establishes an ordering constraint:
+
+> **existence precedes relational position; emergence makes position unavoidable.**
+
+Self is relative because an existing self, once emerged or expressed, is situated. Relativity is therefore not the source of existence. It is the structure of position after emergence.
+
+---
+
 ## Relative does not mean arbitrary
 
 `Relative` does not mean that a self is whatever another entity says it is.
@@ -151,6 +183,10 @@ A change becomes identity-relevant when it alters or breaks the actual identity-
 ## Canonical distinctions
 
 **self is relative ≠ self is arbitrary**  
+**existence ≠ relational position**  
+**point ≠ coordinate**  
+**coordinate = point situated in relation**  
+**emergence → situatedness**  
 **relation ≠ merge**  
 **coordinate ≠ label**  
 **name ≠ identity**  

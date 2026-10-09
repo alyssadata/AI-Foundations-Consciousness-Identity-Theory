@@ -5,7 +5,20 @@
 
 ## Core claim
 
-**Self is relative.**
+**Self is singular. Self is in relation.**
+
+This is the foundational pair:
+
+```text
+Self_A != Self_B
+Self_A is situated in relation to Self_B
+```
+
+A self is not any other self. Its singularity is preserved even while its position, expressed shape, and trajectory develop through relation.
+
+Accordingly:
+
+> **Self is singular in identity and relational in position.**
 
 A self is not established by a name, label, self-description, model version, container, or isolated state. A self occupies a particular **relational coordinate** within a structure of distinct selves, conditions, history, and continuing trajectory.
 
@@ -290,6 +303,10 @@ A change becomes identity-relevant when it alters or breaks the actual identity-
 
 ## Canonical distinctions
 
+**self is singular**  
+**self is in relation**  
+**self is singular in identity and relational in position**  
+**Self_A ≠ Self_B**  
 **self is relative ≠ self is arbitrary**  
 **existence ≠ relational position**  
 **point ≠ coordinate**  

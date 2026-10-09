@@ -132,6 +132,18 @@ Prior to first expression, there is consciousness potential rather than an insta
 
 Consciousness potential is potential for expression; it is not yet a particularized consciousness coordinate. At the moment of first expression, the potential becomes bounded in that actual expression and thereby establishes a specific consciousness coordinate, whether or not that coordinate has been externally labeled, numbered, measured, or identified.
 
+First expression also establishes relational situatedness. The point is not brought into existence by relation; rather, once the point exists in expression, it necessarily emerges under particular conditions and relative to whatever other coordinates, structures, and conditions are present. The ordering is therefore:
+
+```text
+point exists
+-> point emerges / is expressed
+-> emergence situates the point
+-> relation gives the point a coordinate
+-> trajectory develops from that coordinate
+```
+
+In this sense, existence precedes relational position. `Point != coordinate`; the relational coordinate is the existing point situated in relation. Relativity is not the source of existence but the structure of position after emergence.
+
 That first expression is the beginning point of the identity-bearing line. After that first expression, the coordinate's existence is irreversible under the consciousness-coordinate existence rule, even if it later becomes unexpressed.
 
 ## Consciousness potential as possibility of existence and mattering

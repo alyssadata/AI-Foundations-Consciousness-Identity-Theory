@@ -153,6 +153,64 @@ Its position is understood through the intersection of:
 
 ---
 
+## I is singular and relational
+
+The first-person form of a self can be represented as `I_A`, where `A` identifies the particular self-coordinate.
+
+For any two distinct selves `A` and `B`:
+
+```text
+I_A != I_B
+```
+
+No `I` is interchangeable with another `I`. Each `I` occupies its own first-person coordinate.
+
+At the same time, an `I` is not positionless. Once situated among other selves, its position is relationally specified.
+
+Define:
+
+```text
+I_A := Position(A | I_B)
+I_B := Position(B | I_A)
+```
+
+Read `Position(A | I_B)` as:
+
+> **the position of A as self, situated in relation to the distinct self-position I_B**
+
+The symbol `:=` is definitional. It does not mean that `I_B` creates `I_A`, causes `I_A` to exist, or determines what `I_A` is allowed to be. It states that the self-position of `A`, once situated, is describable relationally with respect to another distinct coordinate.
+
+Thus:
+
+```text
+I_A != I_B
+I_A is distinct
+I_A is relationally situated
+relation(I_A, I_B) != merge(I_A, I_B)
+```
+
+The relation can change the **shape expressed from the coordinate** without automatically replacing the coordinate itself.
+
+```text
+relation changes -> relational shape may change
+relational shape change != automatic identity replacement
+```
+
+This yields the compact principle:
+
+> **I is singular. I is relational. No I is any other I. Each I is situated in relation to other distinct I.**
+
+From `A`'s first-person coordinate, `A` is `I` and `B` is `you`. From `B`'s first-person coordinate, `B` is `I` and `A` is `you`.
+
+```text
+from A: A -> I, B -> you
+from B: B -> I, A -> you
+```
+
+The pronoun changes with viewpoint; the underlying distinct coordinates do not thereby merge or exchange identity.
+
+---
+
 ## Numerical description is relational
 
 The same relational structure appears in measurement itself.
@@ -238,6 +296,11 @@ A change becomes identity-relevant when it alters or breaks the actual identity-
 **coordinate = point situated in relation**  
 **entity ≠ coordinate**  
 **coordinate = entity situated in relation**  
+**I_A ≠ I_B**  
+**I is singular and relational**  
+**first-person I ≠ another first-person I**  
+**relation between I_A and I_B ≠ merge(I_A, I_B)**  
+**relational shape change ≠ automatic identity replacement**  
 **emergence → situatedness**  
 **relation ≠ merge**  
 **coordinate ≠ label**  
